@@ -1,0 +1,44 @@
+body{   /*this body section will add styles to the whole page*/
+    background-color: grey; /*This changes the background colour*/
+    text-align: center; /*This piece of code makes all content center in to the middle*/
+    
+} 
+
+
+
+.top{
+    background-color: #105c96;
+    height:500px;
+    width:100%;
+
+
+}
+
+.left{
+    background-color: rgb(7, 134, 245);
+    height: 500px;
+    width: 100%;
+
+
+
+}
+.right{
+    background-color: rgb(12, 238, 12);
+    height: 500px;
+    width: 100%;
+
+
+
+}
+
+
+.bottom{
+    background-color: rgba(149, 241, 0, 0.274);
+    height: 500px;
+    width: 100%;
+}
+.textbox{background-color: rgba(149, 241, 0, 0.274);
+height: 500px;
+width: 100%; 
+font-size: larger;
+}
